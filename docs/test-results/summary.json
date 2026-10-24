@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-24",
+  "timezone": "Asia/Tokyo",
+  "flutter": "3.41.6",
+  "dart": "3.11.4",
+  "simulator": "iPhone 17 Pro / iOS 26.0",
+  "analyzerIssues": 0,
+  "unitAndWidgetTests": 9,
+  "routeRenderCases": 80,
+  "iosBookingFlow": "passed",
+  "persistedTotalCents": 2200,
+  "appScreens": 40,
+  "extraScreenshots": 5,
+  "screenshotPixels": [
+    1206,
+    2622
+  ],
+  "webReleaseBuild": "passed",
+  "androidBuild": "not run"
+}
